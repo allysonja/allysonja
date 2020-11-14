@@ -13,6 +13,5 @@ I'm currently looking for an internship for Summer 2021. Check out my [resume](S
 - ⚡ Fun fact: I recently ran my first marathon and hope to run another soon! I enjoy listening to music, running, and playing video games.
 
 #### GitHub Stats!
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allysonja&show_icons=true&theme=gruvbox)
-
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allysonja&show_icons=true&theme=gruvbox) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonja&exclude_repo=allysonja&hide=markdown,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
