@@ -1,8 +1,8 @@
 ### Hi! 
 
-I'm Sonja (pronounced SO-nyah), a junior at Ohio State University studying Computer Information Science through the College of Arts and Sciences. I'm minoring in Honors Math and Religious Studies. I've worked in front-end development and software development, and am trying to get into the game design industry. I've always had a passion for games and have always wanted to design and build them, but have only recently had the time to get integrated with it. Never too late though!
+I'm Sonja (pronounced SO-nyah), a senior at Ohio State University studying Computer Information Science through the College of Arts and Sciences. I'm minoring in Honors Math and Religious Studies. I've worked in front-end development and software development, and am trying to get into the game design industry. I've always had a passion for games and have always wanted to design and build them, but have only recently had the time to get integrated with it. Never too late though!
 
-I'm currently looking for an internship for Summer 2021. Check out my [resume](Sonja_Linton_Resume.pdf) or my [portfolio](https://allysonja.github.io), and feel free to peruse my github repos. I have a few fun projects here!
+I'm currently looking for a full time position starting in Summer 2022. Check out my [resume](Sonja_Linton_Resume.pdf) or my [portfolio](https://allysonja.github.io), and feel free to peruse my github repos. I have a few fun projects here!
 
 #### Overview
 - 🔭 I’m currently working on school projects such as CSE 3902, Game Design Project.
